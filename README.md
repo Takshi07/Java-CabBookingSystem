@@ -23,7 +23,7 @@ A **Java Swing–based mini project** that provides a complete cab-booking solut
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 | Component | Technology Used |
 |------------|----------------|
 | Language | Java |
